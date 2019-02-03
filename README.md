@@ -19,7 +19,7 @@ Download ``DIPimage`` from http://www.diplib.org/download and install it.
 
 ## Open ``Matlab River Detection code`` folder in MATLAB
 
-## Change the path of DIPimage in ‘pathopening.m’
+## Change the path of ``DIPimage`` in ``pathopening.m``
 
 # Run river detection code
 Here, we provide ``run_river_detection.m`` to detect river in single image and ``run_batch_river_detection.m`` for batch detection. 
