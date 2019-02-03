@@ -11,6 +11,7 @@ Use ``DIPimage`` for **path opening**.
 ``2DSpecTools`` and ``OBNLMpackage tools`` have been offered on the GitHub.
 
 Download ``DIPimage`` from http://www.diplib.org/download and install it. 
+![alt text](https://github.com/njuRS/picture/blob/master/1549183782(1).jpg?raw=true)
 
 ## Set Path
 - Click **set path** in Matlab GUI. 
