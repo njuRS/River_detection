@@ -59,7 +59,7 @@ If you see these commands in the command window, the river detection code is run
 You will get 3 processed images. ``test_sentinel2_image_bandpass_gabor_cpo20.tif`` is the final result.
 ![alt text](https://github.com/njuRS/picture/blob/master/1549183928(1).jpg?raw=true)
 
-# Acknowledgement 
+# Acknowledgements
 ## Corresponding Author
 - Kang Yang (kangyang@nju.edu.cn, ph: 13814179324, School of Geography and Ocean Science, Nanjing University) 
 - Xin Lu (xinlu.nju@gmail.com, School of Geography and Ocean Science, Nanjing University)
