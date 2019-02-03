@@ -1,18 +1,12 @@
 
 Corresponding Author:
 
-Kang Yang, Xin Lu, Yao Lu
+Kang Yang (kangyang@nju.edu.cn, ph: 13814179324) 
 
-kangyang@nju.edu.cn, xinlu.nju@gmail.com, yaolu.nju@gmail.com
+Xin Lu (xinlu.nju@gmail.com)
 
-ph: 13814179324
+Yao Lu (yaolu.nju@gmail.com)
 
-School of Geography and Ocean Science, Nanjing University
-
-Corresponding Author:
-Kang Yang, Xin Lu, Yao Lu
-kangyang@nju.edu.cn, XXX, XXX
-ph: 13814179324
 School of Geography and Ocean Science, Nanjing University
 # Environment
 MATLAB R2008a (or higher)
