@@ -1,13 +1,5 @@
  <h1 align="center">Matlab River Detection Code</h1>
-Corresponding Author:
 
-Kang Yang (kangyang@nju.edu.cn, ph: 13814179324) 
-
-Xin Lu (xinlu.nju@gmail.com)
-
-Yao Lu (yaolu.nju@gmail.com)
-
-School of Geography and Ocean Science, Nanjing University
 # Environment
 MATLAB R2008a (or higher)
 # Add MATLAB Tools
@@ -67,8 +59,12 @@ If you see these commands in the command window, the river detection code is run
 You will get 3 processed images. ``test_sentinel2_image_bandpass_gabor_cpo20.tif`` is the final result.
 ![alt text](https://github.com/njuRS/picture/blob/master/1549183928(1).jpg?raw=true)
 
-For more information, please see the paper: 
-
+# Acknowledgement 
+## Corresponding Author
+- Kang Yang (kangyang@nju.edu.cn, ph: 13814179324, School of Geography and Ocean Science, Nanjing University) 
+- Xin Lu (xinlu.nju@gmail.com, School of Geography and Ocean Science, Nanjing University)
+- Yao Lu (yaolu.nju@gmail.com, School of Geography and Ocean Science, Nanjing University)
+## For more information, please see the paper
 Yang, K. , Karlstrom, L., Smith, L.C., Li, M., 2017. Automated high resolution satellite image registration using supraglacial rivers on the Greenland Ice Sheet. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 10(3): 845-856.
 
 Yang, K. , Li, M., Liu, Y., Cheng, L., Huang, Q., Chen, Y., 2015. River Detection in Remotely Sensed Imagery Using Gabor Filtering and Path Opening. Remote Sensing, 7(7): 8779-8802.
